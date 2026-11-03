@@ -1,0 +1,26 @@
+name: Sync SharePoint Data
+
+on:
+  repository_dispatch:
+    types: [update_inventory]
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Save data.json
+        run: |
+          echo '${{ toJson(github.event.client_payload.data) }}' > data.json
+
+      - name: Commit and Push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data.json
+          git commit -m "Auto-update IT Inventory data from SharePoint" || exit 0
+          git push
