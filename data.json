@@ -1,0 +1,1123 @@
+[
+  {
+    "@odata.etag": "\"13\"",
+    "Author": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+      "Claims": "i:0#.f|membership|siti.hajar@reservoirlink.com",
+      "Department": "IT",
+      "DisplayName": "Siti Hajar UMAR",
+      "Email": "siti.hajar@reservoirlink.com",
+      "JobTitle": "INTERNSHIP",
+      "Picture": "https://reservoirlink.sharepoint.com/sites/MSSites/_layouts/15/UserPhoto.aspx?Size=L&AccountName=siti.hajar@reservoirlink.com"
+    },
+    "Author#Claims": "i:0#.f|membership|siti.hajar@reservoirlink.com",
+    "Brand": "HP",
+    "Company": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+      "Id": 2,
+      "Value": "AMS"
+    },
+    "Company#Id": 2,
+    "Company_x0020_Copy": "AMS",
+    "Created": "2026-09-21T08:13:44Z",
+    "Editor": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+      "Claims": "i:0#.f|membership|siti.hajar@reservoirlink.com",
+      "Department": "IT",
+      "DisplayName": "Siti Hajar UMAR",
+      "Email": "siti.hajar@reservoirlink.com",
+      "JobTitle": "INTERNSHIP",
+      "Picture": "https://reservoirlink.sharepoint.com/sites/MSSites/_layouts/15/UserPhoto.aspx?Size=L&AccountName=siti.hajar@reservoirlink.com"
+    },
+    "Editor#Claims": "i:0#.f|membership|siti.hajar@reservoirlink.com",
+    "ID": 3,
+    "ItemInternalId": "3",
+    "Model": "LAPTOP",
+    "Modified": "2026-10-19T06:41:28Z",
+    "Status": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+      "Id": 1,
+      "Value": "Repair"
+    },
+    "Status#Id": 1,
+    "Title": "GHJ78",
+    "Workbase": "KL",
+    "{ContentType}": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedContentType",
+      "Id": "0x0100711E667B61FA0141B0BDBCE876AB919B006559A9E137497A479859325B95496DE1",
+      "Name": "Item"
+    },
+    "{ContentType}#Id": "0x0100711E667B61FA0141B0BDBCE876AB919B006559A9E137497A479859325B95496DE1",
+    "{FilenameWithExtension}": "GHJ78",
+    "{FullPath}": "Lists/test/3_.000",
+    "{HasAttachments}": false,
+    "{Identifier}": "Lists%252ftest%252f3_.000",
+    "{IsFolder}": false,
+    "{Link}": "https://reservoirlink.sharepoint.com/sites/MSSites/_layouts/15/listform.aspx?PageType=4&ListId=17e82ded%2Dcc34%2D4030%2Dab6a%2D639fe7680b9b&ID=3&ContentTypeID=0x0100711E667B61FA0141B0BDBCE876AB919B006559A9E137497A479859325B95496DE1",
+    "{Name}": "GHJ78",
+    "{Path}": "Lists/test/",
+    "{VersionNumber}": "13.0"
+  },
+  {
+    "@odata.etag": "\"5\"",
+    "Author": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+      "Claims": "i:0#.f|membership|siti.hajar@reservoirlink.com",
+      "Department": "IT",
+      "DisplayName": "Siti Hajar UMAR",
+      "Email": "siti.hajar@reservoirlink.com",
+      "JobTitle": "INTERNSHIP",
+      "Picture": "https://reservoirlink.sharepoint.com/sites/MSSites/_layouts/15/UserPhoto.aspx?Size=L&AccountName=siti.hajar@reservoirlink.com"
+    },
+    "Author#Claims": "i:0#.f|membership|siti.hajar@reservoirlink.com",
+    "Brand": "APPLE",
+    "Company": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+      "Id": 4,
+      "Value": "RLS"
+    },
+    "Company#Id": 4,
+    "Company_x0020_Copy": "RLS",
+    "Created": "2026-09-21T08:16:15Z",
+    "Editor": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+      "Claims": "i:0#.f|membership|siti.hajar@reservoirlink.com",
+      "Department": "IT",
+      "DisplayName": "Siti Hajar UMAR",
+      "Email": "siti.hajar@reservoirlink.com",
+      "JobTitle": "INTERNSHIP",
+      "Picture": "https://reservoirlink.sharepoint.com/sites/MSSites/_layouts/15/UserPhoto.aspx?Size=L&AccountName=siti.hajar@reservoirlink.com"
+    },
+    "Editor#Claims": "i:0#.f|membership|siti.hajar@reservoirlink.com",
+    "ID": 6,
+    "ItemInternalId": "6",
+    "Model": "LAPTOP",
+    "Modified": "2026-09-24T09:24:52Z",
+    "Status": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+      "Id": 1,
+      "Value": "Repair"
+    },
+    "Status#Id": 1,
+    "Title": "MAC68",
+    "Workbase": "KL",
+    "{ContentType}": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedContentType",
+      "Id": "0x0100711E667B61FA0141B0BDBCE876AB919B006559A9E137497A479859325B95496DE1",
+      "Name": "Item"
+    },
+    "{ContentType}#Id": "0x0100711E667B61FA0141B0BDBCE876AB919B006559A9E137497A479859325B95496DE1",
+    "{FilenameWithExtension}": "MAC68",
+    "{FullPath}": "Lists/test/6_.000",
+    "{HasAttachments}": false,
+    "{Identifier}": "Lists%252ftest%252f6_.000",
+    "{IsFolder}": false,
+    "{Link}": "https://reservoirlink.sharepoint.com/sites/MSSites/_layouts/15/listform.aspx?PageType=4&ListId=17e82ded%2Dcc34%2D4030%2Dab6a%2D639fe7680b9b&ID=6&ContentTypeID=0x0100711E667B61FA0141B0BDBCE876AB919B006559A9E137497A479859325B95496DE1",
+    "{Name}": "MAC68",
+    "{Path}": "Lists/test/",
+    "{VersionNumber}": "5.0"
+  },
+  {
+    "@odata.etag": "\"8\"",
+    "Author": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+      "Claims": "i:0#.f|membership|siti.hajar@reservoirlink.com",
+      "Department": "IT",
+      "DisplayName": "Siti Hajar UMAR",
+      "Email": "siti.hajar@reservoirlink.com",
+      "JobTitle": "INTERNSHIP",
+      "Picture": "https://reservoirlink.sharepoint.com/sites/MSSites/_layouts/15/UserPhoto.aspx?Size=L&AccountName=siti.hajar@reservoirlink.com"
+    },
+    "Author#Claims": "i:0#.f|membership|siti.hajar@reservoirlink.com",
+    "Brand": "APPLE",
+    "Company": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+      "Id": 3,
+      "Value": "RLR"
+    },
+    "Company#Id": 3,
+    "Company_x0020_Copy": "RLR",
+    "Created": "2026-09-21T08:20:17Z",
+    "Editor": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+      "Claims": "i:0#.f|membership|siti.hajar@reservoirlink.com",
+      "Department": "IT",
+      "DisplayName": "Siti Hajar UMAR",
+      "Email": "siti.hajar@reservoirlink.com",
+      "JobTitle": "INTERNSHIP",
+      "Picture": "https://reservoirlink.sharepoint.com/sites/MSSites/_layouts/15/UserPhoto.aspx?Size=L&AccountName=siti.hajar@reservoirlink.com"
+    },
+    "Editor#Claims": "i:0#.f|membership|siti.hajar@reservoirlink.com",
+    "ID": 8,
+    "ItemInternalId": "8",
+    "Model": "LAPTOP",
+    "Modified": "2026-10-19T06:41:17Z",
+    "Status": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+      "Id": 0,
+      "Value": "In Use"
+    },
+    "Status#Id": 0,
+    "Title": "MAC43",
+    "Workbase": "KL",
+    "{ContentType}": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedContentType",
+      "Id": "0x0100711E667B61FA0141B0BDBCE876AB919B006559A9E137497A479859325B95496DE1",
+      "Name": "Item"
+    },
+    "{ContentType}#Id": "0x0100711E667B61FA0141B0BDBCE876AB919B006559A9E137497A479859325B95496DE1",
+    "{FilenameWithExtension}": "MAC43",
+    "{FullPath}": "Lists/test/8_.000",
+    "{HasAttachments}": false,
+    "{Identifier}": "Lists%252ftest%252f8_.000",
+    "{IsFolder}": false,
+    "{Link}": "https://reservoirlink.sharepoint.com/sites/MSSites/_layouts/15/listform.aspx?PageType=4&ListId=17e82ded%2Dcc34%2D4030%2Dab6a%2D639fe7680b9b&ID=8&ContentTypeID=0x0100711E667B61FA0141B0BDBCE876AB919B006559A9E137497A479859325B95496DE1",
+    "{Name}": "MAC43",
+    "{Path}": "Lists/test/",
+    "{VersionNumber}": "8.0"
+  },
+  {
+    "@odata.etag": "\"10\"",
+    "Author": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+      "Claims": "i:0#.f|membership|siti.hajar@reservoirlink.com",
+      "Department": "IT",
+      "DisplayName": "Siti Hajar UMAR",
+      "Email": "siti.hajar@reservoirlink.com",
+      "JobTitle": "INTERNSHIP",
+      "Picture": "https://reservoirlink.sharepoint.com/sites/MSSites/_layouts/15/UserPhoto.aspx?Size=L&AccountName=siti.hajar@reservoirlink.com"
+    },
+    "Author#Claims": "i:0#.f|membership|siti.hajar@reservoirlink.com",
+    "Brand": "ASUS",
+    "Company": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+      "Id": 5,
+      "Value": "RLP"
+    },
+    "Company#Id": 5,
+    "Company_x0020_Copy": "RLP",
+    "Created": "2026-09-21T08:21:15Z",
+    "Editor": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+      "Claims": "i:0#.f|membership|siti.hajar@reservoirlink.com",
+      "Department": "IT",
+      "DisplayName": "Siti Hajar UMAR",
+      "Email": "siti.hajar@reservoirlink.com",
+      "JobTitle": "INTERNSHIP",
+      "Picture": "https://reservoirlink.sharepoint.com/sites/MSSites/_layouts/15/UserPhoto.aspx?Size=L&AccountName=siti.hajar@reservoirlink.com"
+    },
+    "Editor#Claims": "i:0#.f|membership|siti.hajar@reservoirlink.com",
+    "ID": 9,
+    "ItemInternalId": "9",
+    "Model": "LAPTOP",
+    "Modified": "2026-09-24T09:25:05Z",
+    "Status": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+      "Id": 0,
+      "Value": "In Use"
+    },
+    "Status#Id": 0,
+    "Title": "HGM21",
+    "Workbase": "KL",
+    "{ContentType}": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedContentType",
+      "Id": "0x0100711E667B61FA0141B0BDBCE876AB919B006559A9E137497A479859325B95496DE1",
+      "Name": "Item"
+    },
+    "{ContentType}#Id": "0x0100711E667B61FA0141B0BDBCE876AB919B006559A9E137497A479859325B95496DE1",
+    "{FilenameWithExtension}": "HGM21",
+    "{FullPath}": "Lists/test/9_.000",
+    "{HasAttachments}": false,
+    "{Identifier}": "Lists%252ftest%252f9_.000",
+    "{IsFolder}": false,
+    "{Link}": "https://reservoirlink.sharepoint.com/sites/MSSites/_layouts/15/listform.aspx?PageType=4&ListId=17e82ded%2Dcc34%2D4030%2Dab6a%2D639fe7680b9b&ID=9&ContentTypeID=0x0100711E667B61FA0141B0BDBCE876AB919B006559A9E137497A479859325B95496DE1",
+    "{Name}": "HGM21",
+    "{Path}": "Lists/test/",
+    "{VersionNumber}": "10.0"
+  },
+  {
+    "@odata.etag": "\"11\"",
+    "Author": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+      "Claims": "i:0#.f|membership|siti.hajar@reservoirlink.com",
+      "Department": "IT",
+      "DisplayName": "Siti Hajar UMAR",
+      "Email": "siti.hajar@reservoirlink.com",
+      "JobTitle": "INTERNSHIP",
+      "Picture": "https://reservoirlink.sharepoint.com/sites/MSSites/_layouts/15/UserPhoto.aspx?Size=L&AccountName=siti.hajar@reservoirlink.com"
+    },
+    "Author#Claims": "i:0#.f|membership|siti.hajar@reservoirlink.com",
+    "Brand": "ASUS",
+    "Company": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+      "Id": 6,
+      "Value": "APRL"
+    },
+    "Company#Id": 6,
+    "Company_x0020_Copy": "APRL",
+    "Created": "2026-09-21T08:21:50Z",
+    "Editor": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+      "Claims": "i:0#.f|membership|siti.hajar@reservoirlink.com",
+      "Department": "IT",
+      "DisplayName": "Siti Hajar UMAR",
+      "Email": "siti.hajar@reservoirlink.com",
+      "JobTitle": "INTERNSHIP",
+      "Picture": "https://reservoirlink.sharepoint.com/sites/MSSites/_layouts/15/UserPhoto.aspx?Size=L&AccountName=siti.hajar@reservoirlink.com"
+    },
+    "Editor#Claims": "i:0#.f|membership|siti.hajar@reservoirlink.com",
+    "ID": 10,
+    "ItemInternalId": "10",
+    "Model": "LAPTOP",
+    "Modified": "2026-09-24T09:25:05Z",
+    "Status": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+      "Id": 0,
+      "Value": "In Use"
+    },
+    "Status#Id": 0,
+    "Title": "GHJ89",
+    "Workbase": "KL",
+    "{ContentType}": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedContentType",
+      "Id": "0x0100711E667B61FA0141B0BDBCE876AB919B006559A9E137497A479859325B95496DE1",
+      "Name": "Item"
+    },
+    "{ContentType}#Id": "0x0100711E667B61FA0141B0BDBCE876AB919B006559A9E137497A479859325B95496DE1",
+    "{FilenameWithExtension}": "GHJ89",
+    "{FullPath}": "Lists/test/10_.000",
+    "{HasAttachments}": false,
+    "{Identifier}": "Lists%252ftest%252f10_.000",
+    "{IsFolder}": false,
+    "{Link}": "https://reservoirlink.sharepoint.com/sites/MSSites/_layouts/15/listform.aspx?PageType=4&ListId=17e82ded%2Dcc34%2D4030%2Dab6a%2D639fe7680b9b&ID=10&ContentTypeID=0x0100711E667B61FA0141B0BDBCE876AB919B006559A9E137497A479859325B95496DE1",
+    "{Name}": "GHJ89",
+    "{Path}": "Lists/test/",
+    "{VersionNumber}": "11.0"
+  },
+  {
+    "@odata.etag": "\"6\"",
+    "Author": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+      "Claims": "i:0#.f|membership|siti.hajar@reservoirlink.com",
+      "Department": "IT",
+      "DisplayName": "Siti Hajar UMAR",
+      "Email": "siti.hajar@reservoirlink.com",
+      "JobTitle": "INTERNSHIP",
+      "Picture": "https://reservoirlink.sharepoint.com/sites/MSSites/_layouts/15/UserPhoto.aspx?Size=L&AccountName=siti.hajar@reservoirlink.com"
+    },
+    "Author#Claims": "i:0#.f|membership|siti.hajar@reservoirlink.com",
+    "Brand": "APPLE",
+    "Company": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+      "Id": 1,
+      "Value": "RLSB"
+    },
+    "Company#Id": 1,
+    "Company_x0020_Copy": "RLSB",
+    "Created": "2026-09-21T08:22:27Z",
+    "Editor": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+      "Claims": "i:0#.f|membership|siti.hajar@reservoirlink.com",
+      "Department": "IT",
+      "DisplayName": "Siti Hajar UMAR",
+      "Email": "siti.hajar@reservoirlink.com",
+      "JobTitle": "INTERNSHIP",
+      "Picture": "https://reservoirlink.sharepoint.com/sites/MSSites/_layouts/15/UserPhoto.aspx?Size=L&AccountName=siti.hajar@reservoirlink.com"
+    },
+    "Editor#Claims": "i:0#.f|membership|siti.hajar@reservoirlink.com",
+    "ID": 11,
+    "ItemInternalId": "11",
+    "Model": "LAPTOP",
+    "Modified": "2026-10-19T06:41:34Z",
+    "Status": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+      "Id": 1,
+      "Value": "Repair"
+    },
+    "Status#Id": 1,
+    "Title": "MAC29",
+    "Workbase": "KL",
+    "{ContentType}": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedContentType",
+      "Id": "0x0100711E667B61FA0141B0BDBCE876AB919B006559A9E137497A479859325B95496DE1",
+      "Name": "Item"
+    },
+    "{ContentType}#Id": "0x0100711E667B61FA0141B0BDBCE876AB919B006559A9E137497A479859325B95496DE1",
+    "{FilenameWithExtension}": "MAC29",
+    "{FullPath}": "Lists/test/11_.000",
+    "{HasAttachments}": false,
+    "{Identifier}": "Lists%252ftest%252f11_.000",
+    "{IsFolder}": false,
+    "{Link}": "https://reservoirlink.sharepoint.com/sites/MSSites/_layouts/15/listform.aspx?PageType=4&ListId=17e82ded%2Dcc34%2D4030%2Dab6a%2D639fe7680b9b&ID=11&ContentTypeID=0x0100711E667B61FA0141B0BDBCE876AB919B006559A9E137497A479859325B95496DE1",
+    "{Name}": "MAC29",
+    "{Path}": "Lists/test/",
+    "{VersionNumber}": "6.0"
+  },
+  {
+    "@odata.etag": "\"8\"",
+    "Author": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+      "Claims": "i:0#.f|membership|siti.hajar@reservoirlink.com",
+      "Department": "IT",
+      "DisplayName": "Siti Hajar UMAR",
+      "Email": "siti.hajar@reservoirlink.com",
+      "JobTitle": "INTERNSHIP",
+      "Picture": "https://reservoirlink.sharepoint.com/sites/MSSites/_layouts/15/UserPhoto.aspx?Size=L&AccountName=siti.hajar@reservoirlink.com"
+    },
+    "Author#Claims": "i:0#.f|membership|siti.hajar@reservoirlink.com",
+    "Brand": "DELL",
+    "Company": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+      "Id": 0,
+      "Value": "RLEB"
+    },
+    "Company#Id": 0,
+    "Company_x0020_Copy": "RLEB",
+    "Created": "2026-09-21T08:23:54Z",
+    "Editor": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+      "Claims": "i:0#.f|membership|siti.hajar@reservoirlink.com",
+      "Department": "IT",
+      "DisplayName": "Siti Hajar UMAR",
+      "Email": "siti.hajar@reservoirlink.com",
+      "JobTitle": "INTERNSHIP",
+      "Picture": "https://reservoirlink.sharepoint.com/sites/MSSites/_layouts/15/UserPhoto.aspx?Size=L&AccountName=siti.hajar@reservoirlink.com"
+    },
+    "Editor#Claims": "i:0#.f|membership|siti.hajar@reservoirlink.com",
+    "ID": 12,
+    "ItemInternalId": "12",
+    "Model": "LAPTOP",
+    "Modified": "2026-10-08T04:23:02Z",
+    "Status": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+      "Id": 1,
+      "Value": "Repair"
+    },
+    "Status#Id": 1,
+    "Title": "SDH10",
+    "Workbase": "KL",
+    "{ContentType}": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedContentType",
+      "Id": "0x0100711E667B61FA0141B0BDBCE876AB919B006559A9E137497A479859325B95496DE1",
+      "Name": "Item"
+    },
+    "{ContentType}#Id": "0x0100711E667B61FA0141B0BDBCE876AB919B006559A9E137497A479859325B95496DE1",
+    "{FilenameWithExtension}": "SDH10",
+    "{FullPath}": "Lists/test/12_.000",
+    "{HasAttachments}": false,
+    "{Identifier}": "Lists%252ftest%252f12_.000",
+    "{IsFolder}": false,
+    "{Link}": "https://reservoirlink.sharepoint.com/sites/MSSites/_layouts/15/listform.aspx?PageType=4&ListId=17e82ded%2Dcc34%2D4030%2Dab6a%2D639fe7680b9b&ID=12&ContentTypeID=0x0100711E667B61FA0141B0BDBCE876AB919B006559A9E137497A479859325B95496DE1",
+    "{Name}": "SDH10",
+    "{Path}": "Lists/test/",
+    "{VersionNumber}": "8.0"
+  },
+  {
+    "@odata.etag": "\"15\"",
+    "Author": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+      "Claims": "i:0#.f|membership|siti.hajar@reservoirlink.com",
+      "Department": "IT",
+      "DisplayName": "Siti Hajar UMAR",
+      "Email": "siti.hajar@reservoirlink.com",
+      "JobTitle": "INTERNSHIP",
+      "Picture": "https://reservoirlink.sharepoint.com/sites/MSSites/_layouts/15/UserPhoto.aspx?Size=L&AccountName=siti.hajar@reservoirlink.com"
+    },
+    "Author#Claims": "i:0#.f|membership|siti.hajar@reservoirlink.com",
+    "Brand": "LENOVO",
+    "Company": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+      "Id": 3,
+      "Value": "RLR"
+    },
+    "Company#Id": 3,
+    "Company_x0020_Copy": "RLR",
+    "Created": "2026-09-22T02:22:20Z",
+    "Editor": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+      "Claims": "i:0#.f|membership|siti.hajar@reservoirlink.com",
+      "Department": "IT",
+      "DisplayName": "Siti Hajar UMAR",
+      "Email": "siti.hajar@reservoirlink.com",
+      "JobTitle": "INTERNSHIP",
+      "Picture": "https://reservoirlink.sharepoint.com/sites/MSSites/_layouts/15/UserPhoto.aspx?Size=L&AccountName=siti.hajar@reservoirlink.com"
+    },
+    "Editor#Claims": "i:0#.f|membership|siti.hajar@reservoirlink.com",
+    "ID": 13,
+    "ItemInternalId": "13",
+    "Model": "LAPTOP",
+    "Modified": "2026-10-19T06:41:49Z",
+    "Status": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+      "Id": 0,
+      "Value": "In Use"
+    },
+    "Status#Id": 0,
+    "Title": "JHJK23",
+    "Workbase": "LABUAN",
+    "{ContentType}": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedContentType",
+      "Id": "0x0100711E667B61FA0141B0BDBCE876AB919B006559A9E137497A479859325B95496DE1",
+      "Name": "Item"
+    },
+    "{ContentType}#Id": "0x0100711E667B61FA0141B0BDBCE876AB919B006559A9E137497A479859325B95496DE1",
+    "{FilenameWithExtension}": "JHJK23",
+    "{FullPath}": "Lists/test/13_.000",
+    "{HasAttachments}": false,
+    "{Identifier}": "Lists%252ftest%252f13_.000",
+    "{IsFolder}": false,
+    "{Link}": "https://reservoirlink.sharepoint.com/sites/MSSites/_layouts/15/listform.aspx?PageType=4&ListId=17e82ded%2Dcc34%2D4030%2Dab6a%2D639fe7680b9b&ID=13&ContentTypeID=0x0100711E667B61FA0141B0BDBCE876AB919B006559A9E137497A479859325B95496DE1",
+    "{Name}": "JHJK23",
+    "{Path}": "Lists/test/",
+    "{VersionNumber}": "15.0"
+  },
+  {
+    "@odata.etag": "\"7\"",
+    "Author": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+      "Claims": "i:0#.f|membership|siti.hajar@reservoirlink.com",
+      "Department": "IT",
+      "DisplayName": "Siti Hajar UMAR",
+      "Email": "siti.hajar@reservoirlink.com",
+      "JobTitle": "INTERNSHIP",
+      "Picture": "https://reservoirlink.sharepoint.com/sites/MSSites/_layouts/15/UserPhoto.aspx?Size=L&AccountName=siti.hajar@reservoirlink.com"
+    },
+    "Author#Claims": "i:0#.f|membership|siti.hajar@reservoirlink.com",
+    "Brand": "APPLE",
+    "Company": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+      "Id": 1,
+      "Value": "RLSB"
+    },
+    "Company#Id": 1,
+    "Company_x0020_Copy": "RLSB",
+    "Created": "2026-09-22T06:14:59Z",
+    "Editor": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+      "Claims": "i:0#.f|membership|siti.hajar@reservoirlink.com",
+      "Department": "IT",
+      "DisplayName": "Siti Hajar UMAR",
+      "Email": "siti.hajar@reservoirlink.com",
+      "JobTitle": "INTERNSHIP",
+      "Picture": "https://reservoirlink.sharepoint.com/sites/MSSites/_layouts/15/UserPhoto.aspx?Size=L&AccountName=siti.hajar@reservoirlink.com"
+    },
+    "Editor#Claims": "i:0#.f|membership|siti.hajar@reservoirlink.com",
+    "ID": 16,
+    "ItemInternalId": "16",
+    "Model": "LAPTOP",
+    "Modified": "2026-09-24T09:25:26Z",
+    "Status": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+      "Id": 0,
+      "Value": "In Use"
+    },
+    "Status#Id": 0,
+    "Title": "MAC71",
+    "Workbase": "LABUAN",
+    "{ContentType}": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedContentType",
+      "Id": "0x0100711E667B61FA0141B0BDBCE876AB919B006559A9E137497A479859325B95496DE1",
+      "Name": "Item"
+    },
+    "{ContentType}#Id": "0x0100711E667B61FA0141B0BDBCE876AB919B006559A9E137497A479859325B95496DE1",
+    "{FilenameWithExtension}": "MAC71",
+    "{FullPath}": "Lists/test/16_.000",
+    "{HasAttachments}": false,
+    "{Identifier}": "Lists%252ftest%252f16_.000",
+    "{IsFolder}": false,
+    "{Link}": "https://reservoirlink.sharepoint.com/sites/MSSites/_layouts/15/listform.aspx?PageType=4&ListId=17e82ded%2Dcc34%2D4030%2Dab6a%2D639fe7680b9b&ID=16&ContentTypeID=0x0100711E667B61FA0141B0BDBCE876AB919B006559A9E137497A479859325B95496DE1",
+    "{Name}": "MAC71",
+    "{Path}": "Lists/test/",
+    "{VersionNumber}": "7.0"
+  },
+  {
+    "@odata.etag": "\"4\"",
+    "Author": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+      "Claims": "i:0#.f|membership|siti.hajar@reservoirlink.com",
+      "Department": "IT",
+      "DisplayName": "Siti Hajar UMAR",
+      "Email": "siti.hajar@reservoirlink.com",
+      "JobTitle": "INTERNSHIP",
+      "Picture": "https://reservoirlink.sharepoint.com/sites/MSSites/_layouts/15/UserPhoto.aspx?Size=L&AccountName=siti.hajar@reservoirlink.com"
+    },
+    "Author#Claims": "i:0#.f|membership|siti.hajar@reservoirlink.com",
+    "Brand": "HP",
+    "Company": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+      "Id": 1,
+      "Value": "RLSB"
+    },
+    "Company#Id": 1,
+    "Company_x0020_Copy": "RLSB",
+    "Created": "2026-09-23T03:20:07Z",
+    "Editor": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+      "Claims": "i:0#.f|membership|siti.hajar@reservoirlink.com",
+      "Department": "IT",
+      "DisplayName": "Siti Hajar UMAR",
+      "Email": "siti.hajar@reservoirlink.com",
+      "JobTitle": "INTERNSHIP",
+      "Picture": "https://reservoirlink.sharepoint.com/sites/MSSites/_layouts/15/UserPhoto.aspx?Size=L&AccountName=siti.hajar@reservoirlink.com"
+    },
+    "Editor#Claims": "i:0#.f|membership|siti.hajar@reservoirlink.com",
+    "ID": 17,
+    "ItemInternalId": "17",
+    "Model": "LAPTOP",
+    "Modified": "2026-10-19T06:41:38Z",
+    "Status": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+      "Id": 1,
+      "Value": "Repair"
+    },
+    "Status#Id": 1,
+    "Title": "ALP21",
+    "Workbase": "KL",
+    "{ContentType}": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedContentType",
+      "Id": "0x0100711E667B61FA0141B0BDBCE876AB919B006559A9E137497A479859325B95496DE1",
+      "Name": "Item"
+    },
+    "{ContentType}#Id": "0x0100711E667B61FA0141B0BDBCE876AB919B006559A9E137497A479859325B95496DE1",
+    "{FilenameWithExtension}": "ALP21",
+    "{FullPath}": "Lists/test/17_.000",
+    "{HasAttachments}": false,
+    "{Identifier}": "Lists%252ftest%252f17_.000",
+    "{IsFolder}": false,
+    "{Link}": "https://reservoirlink.sharepoint.com/sites/MSSites/_layouts/15/listform.aspx?PageType=4&ListId=17e82ded%2Dcc34%2D4030%2Dab6a%2D639fe7680b9b&ID=17&ContentTypeID=0x0100711E667B61FA0141B0BDBCE876AB919B006559A9E137497A479859325B95496DE1",
+    "{Name}": "ALP21",
+    "{Path}": "Lists/test/",
+    "{VersionNumber}": "4.0"
+  },
+  {
+    "@odata.etag": "\"1\"",
+    "Author": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+      "Claims": "i:0#.f|membership|siti.hajar@reservoirlink.com",
+      "Department": "IT",
+      "DisplayName": "Siti Hajar UMAR",
+      "Email": "siti.hajar@reservoirlink.com",
+      "JobTitle": "INTERNSHIP",
+      "Picture": "https://reservoirlink.sharepoint.com/sites/MSSites/_layouts/15/UserPhoto.aspx?Size=L&AccountName=siti.hajar@reservoirlink.com"
+    },
+    "Author#Claims": "i:0#.f|membership|siti.hajar@reservoirlink.com",
+    "Brand": "DELL",
+    "Company": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+      "Id": 2,
+      "Value": "AMS"
+    },
+    "Company#Id": 2,
+    "Company_x0020_Copy": "AMS",
+    "Created": "2026-09-25T06:28:31Z",
+    "Editor": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+      "Claims": "i:0#.f|membership|siti.hajar@reservoirlink.com",
+      "Department": "IT",
+      "DisplayName": "Siti Hajar UMAR",
+      "Email": "siti.hajar@reservoirlink.com",
+      "JobTitle": "INTERNSHIP",
+      "Picture": "https://reservoirlink.sharepoint.com/sites/MSSites/_layouts/15/UserPhoto.aspx?Size=L&AccountName=siti.hajar@reservoirlink.com"
+    },
+    "Editor#Claims": "i:0#.f|membership|siti.hajar@reservoirlink.com",
+    "ID": 20,
+    "ItemInternalId": "20",
+    "Model": "LAPTOP",
+    "Modified": "2026-09-25T06:28:31Z",
+    "Status": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+      "Id": 0,
+      "Value": "In Use"
+    },
+    "Status#Id": 0,
+    "Title": "BSN29",
+    "Workbase": "MIRI",
+    "{ContentType}": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedContentType",
+      "Id": "0x0100711E667B61FA0141B0BDBCE876AB919B006559A9E137497A479859325B95496DE1",
+      "Name": "Item"
+    },
+    "{ContentType}#Id": "0x0100711E667B61FA0141B0BDBCE876AB919B006559A9E137497A479859325B95496DE1",
+    "{FilenameWithExtension}": "BSN29",
+    "{FullPath}": "Lists/test/20_.000",
+    "{HasAttachments}": false,
+    "{Identifier}": "Lists%252ftest%252f20_.000",
+    "{IsFolder}": false,
+    "{Link}": "https://reservoirlink.sharepoint.com/sites/MSSites/_layouts/15/listform.aspx?PageType=4&ListId=17e82ded%2Dcc34%2D4030%2Dab6a%2D639fe7680b9b&ID=20&ContentTypeID=0x0100711E667B61FA0141B0BDBCE876AB919B006559A9E137497A479859325B95496DE1",
+    "{Name}": "BSN29",
+    "{Path}": "Lists/test/",
+    "{VersionNumber}": "1.0"
+  },
+  {
+    "@odata.etag": "\"2\"",
+    "Author": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+      "Claims": "i:0#.f|membership|siti.hajar@reservoirlink.com",
+      "Department": "IT",
+      "DisplayName": "Siti Hajar UMAR",
+      "Email": "siti.hajar@reservoirlink.com",
+      "JobTitle": "INTERNSHIP",
+      "Picture": "https://reservoirlink.sharepoint.com/sites/MSSites/_layouts/15/UserPhoto.aspx?Size=L&AccountName=siti.hajar@reservoirlink.com"
+    },
+    "Author#Claims": "i:0#.f|membership|siti.hajar@reservoirlink.com",
+    "Brand": "DELL",
+    "Company": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+      "Id": 8,
+      "Value": "PMAX"
+    },
+    "Company#Id": 8,
+    "Company_x0020_Copy": "PMAX",
+    "Created": "2026-09-28T01:56:32Z",
+    "Editor": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+      "Claims": "i:0#.f|membership|siti.hajar@reservoirlink.com",
+      "Department": "IT",
+      "DisplayName": "Siti Hajar UMAR",
+      "Email": "siti.hajar@reservoirlink.com",
+      "JobTitle": "INTERNSHIP",
+      "Picture": "https://reservoirlink.sharepoint.com/sites/MSSites/_layouts/15/UserPhoto.aspx?Size=L&AccountName=siti.hajar@reservoirlink.com"
+    },
+    "Editor#Claims": "i:0#.f|membership|siti.hajar@reservoirlink.com",
+    "ID": 21,
+    "ItemInternalId": "21",
+    "Model": "LAPTOP",
+    "Modified": "2026-11-02T07:55:28Z",
+    "Status": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+      "Id": 1,
+      "Value": "Repair"
+    },
+    "Status#Id": 1,
+    "Title": "QWE09",
+    "Workbase": "MIRI",
+    "{ContentType}": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedContentType",
+      "Id": "0x0100711E667B61FA0141B0BDBCE876AB919B006559A9E137497A479859325B95496DE1",
+      "Name": "Item"
+    },
+    "{ContentType}#Id": "0x0100711E667B61FA0141B0BDBCE876AB919B006559A9E137497A479859325B95496DE1",
+    "{FilenameWithExtension}": "QWE09",
+    "{FullPath}": "Lists/test/21_.000",
+    "{HasAttachments}": false,
+    "{Identifier}": "Lists%252ftest%252f21_.000",
+    "{IsFolder}": false,
+    "{Link}": "https://reservoirlink.sharepoint.com/sites/MSSites/_layouts/15/listform.aspx?PageType=4&ListId=17e82ded%2Dcc34%2D4030%2Dab6a%2D639fe7680b9b&ID=21&ContentTypeID=0x0100711E667B61FA0141B0BDBCE876AB919B006559A9E137497A479859325B95496DE1",
+    "{Name}": "QWE09",
+    "{Path}": "Lists/test/",
+    "{VersionNumber}": "2.0"
+  },
+  {
+    "@odata.etag": "\"1\"",
+    "Author": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+      "Claims": "i:0#.f|membership|siti.hajar@reservoirlink.com",
+      "Department": "IT",
+      "DisplayName": "Siti Hajar UMAR",
+      "Email": "siti.hajar@reservoirlink.com",
+      "JobTitle": "INTERNSHIP",
+      "Picture": "https://reservoirlink.sharepoint.com/sites/MSSites/_layouts/15/UserPhoto.aspx?Size=L&AccountName=siti.hajar@reservoirlink.com"
+    },
+    "Author#Claims": "i:0#.f|membership|siti.hajar@reservoirlink.com",
+    "Brand": "DELL",
+    "Company": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+      "Id": 8,
+      "Value": "PMAX"
+    },
+    "Company#Id": 8,
+    "Company_x0020_Copy": "PMAX",
+    "Created": "2026-09-30T03:50:07Z",
+    "Editor": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+      "Claims": "i:0#.f|membership|siti.hajar@reservoirlink.com",
+      "Department": "IT",
+      "DisplayName": "Siti Hajar UMAR",
+      "Email": "siti.hajar@reservoirlink.com",
+      "JobTitle": "INTERNSHIP",
+      "Picture": "https://reservoirlink.sharepoint.com/sites/MSSites/_layouts/15/UserPhoto.aspx?Size=L&AccountName=siti.hajar@reservoirlink.com"
+    },
+    "Editor#Claims": "i:0#.f|membership|siti.hajar@reservoirlink.com",
+    "ID": 24,
+    "ItemInternalId": "24",
+    "Model": "LAPTOP",
+    "Modified": "2026-09-30T03:50:07Z",
+    "Status": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+      "Id": 0,
+      "Value": "In Use"
+    },
+    "Status#Id": 0,
+    "Title": "AJM18",
+    "Workbase": "MIRI",
+    "{ContentType}": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedContentType",
+      "Id": "0x0100711E667B61FA0141B0BDBCE876AB919B006559A9E137497A479859325B95496DE1",
+      "Name": "Item"
+    },
+    "{ContentType}#Id": "0x0100711E667B61FA0141B0BDBCE876AB919B006559A9E137497A479859325B95496DE1",
+    "{FilenameWithExtension}": "AJM18",
+    "{FullPath}": "Lists/test/24_.000",
+    "{HasAttachments}": false,
+    "{Identifier}": "Lists%252ftest%252f24_.000",
+    "{IsFolder}": false,
+    "{Link}": "https://reservoirlink.sharepoint.com/sites/MSSites/_layouts/15/listform.aspx?PageType=4&ListId=17e82ded%2Dcc34%2D4030%2Dab6a%2D639fe7680b9b&ID=24&ContentTypeID=0x0100711E667B61FA0141B0BDBCE876AB919B006559A9E137497A479859325B95496DE1",
+    "{Name}": "AJM18",
+    "{Path}": "Lists/test/",
+    "{VersionNumber}": "1.0"
+  },
+  {
+    "@odata.etag": "\"1\"",
+    "Author": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+      "Claims": "i:0#.f|membership|siti.hajar@reservoirlink.com",
+      "Department": "IT",
+      "DisplayName": "Siti Hajar UMAR",
+      "Email": "siti.hajar@reservoirlink.com",
+      "JobTitle": "INTERNSHIP",
+      "Picture": "https://reservoirlink.sharepoint.com/sites/MSSites/_layouts/15/UserPhoto.aspx?Size=L&AccountName=siti.hajar@reservoirlink.com"
+    },
+    "Author#Claims": "i:0#.f|membership|siti.hajar@reservoirlink.com",
+    "Brand": "DELL",
+    "Company": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+      "Id": 0,
+      "Value": "RLEB"
+    },
+    "Company#Id": 0,
+    "Company_x0020_Copy": "RLEB",
+    "Created": "2026-09-30T04:25:02Z",
+    "Editor": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+      "Claims": "i:0#.f|membership|siti.hajar@reservoirlink.com",
+      "Department": "IT",
+      "DisplayName": "Siti Hajar UMAR",
+      "Email": "siti.hajar@reservoirlink.com",
+      "JobTitle": "INTERNSHIP",
+      "Picture": "https://reservoirlink.sharepoint.com/sites/MSSites/_layouts/15/UserPhoto.aspx?Size=L&AccountName=siti.hajar@reservoirlink.com"
+    },
+    "Editor#Claims": "i:0#.f|membership|siti.hajar@reservoirlink.com",
+    "ID": 25,
+    "ItemInternalId": "25",
+    "Model": "LAPTOP",
+    "Modified": "2026-09-30T04:25:02Z",
+    "Status": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+      "Id": 0,
+      "Value": "In Use"
+    },
+    "Status#Id": 0,
+    "Title": "HJR07",
+    "Workbase": "KL",
+    "{ContentType}": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedContentType",
+      "Id": "0x0100711E667B61FA0141B0BDBCE876AB919B006559A9E137497A479859325B95496DE1",
+      "Name": "Item"
+    },
+    "{ContentType}#Id": "0x0100711E667B61FA0141B0BDBCE876AB919B006559A9E137497A479859325B95496DE1",
+    "{FilenameWithExtension}": "HJR07",
+    "{FullPath}": "Lists/test/25_.000",
+    "{HasAttachments}": false,
+    "{Identifier}": "Lists%252ftest%252f25_.000",
+    "{IsFolder}": false,
+    "{Link}": "https://reservoirlink.sharepoint.com/sites/MSSites/_layouts/15/listform.aspx?PageType=4&ListId=17e82ded%2Dcc34%2D4030%2Dab6a%2D639fe7680b9b&ID=25&ContentTypeID=0x0100711E667B61FA0141B0BDBCE876AB919B006559A9E137497A479859325B95496DE1",
+    "{Name}": "HJR07",
+    "{Path}": "Lists/test/",
+    "{VersionNumber}": "1.0"
+  },
+  {
+    "@odata.etag": "\"2\"",
+    "Author": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+      "Claims": "i:0#.f|membership|muhammad.syafiq@reservoirlink.com",
+      "Department": "IT",
+      "DisplayName": "Muhammad Syafiq MOHAMAD ZAKY",
+      "Email": "muhammad.syafiq@reservoirlink.com",
+      "JobTitle": null,
+      "Picture": "https://reservoirlink.sharepoint.com/sites/MSSites/_layouts/15/UserPhoto.aspx?Size=L&AccountName=muhammad.syafiq@reservoirlink.com"
+    },
+    "Author#Claims": "i:0#.f|membership|muhammad.syafiq@reservoirlink.com",
+    "Brand": "DELL",
+    "Company": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+      "Id": 0,
+      "Value": "RLEB"
+    },
+    "Company#Id": 0,
+    "Company_x0020_Copy": "RLEB",
+    "Created": "2026-10-08T08:11:09Z",
+    "Editor": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+      "Claims": "i:0#.f|membership|siti.hajar@reservoirlink.com",
+      "Department": "IT",
+      "DisplayName": "Siti Hajar UMAR",
+      "Email": "siti.hajar@reservoirlink.com",
+      "JobTitle": "INTERNSHIP",
+      "Picture": "https://reservoirlink.sharepoint.com/sites/MSSites/_layouts/15/UserPhoto.aspx?Size=L&AccountName=siti.hajar@reservoirlink.com"
+    },
+    "Editor#Claims": "i:0#.f|membership|siti.hajar@reservoirlink.com",
+    "ID": 28,
+    "ItemInternalId": "28",
+    "Model": "AMIRUL",
+    "Modified": "2026-10-19T06:41:45Z",
+    "Status": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+      "Id": 1,
+      "Value": "Repair"
+    },
+    "Status#Id": 1,
+    "Title": "LATITUDE 3450",
+    "Workbase": "KL",
+    "{ContentType}": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedContentType",
+      "Id": "0x0100711E667B61FA0141B0BDBCE876AB919B006559A9E137497A479859325B95496DE1",
+      "Name": "Item"
+    },
+    "{ContentType}#Id": "0x0100711E667B61FA0141B0BDBCE876AB919B006559A9E137497A479859325B95496DE1",
+    "{FilenameWithExtension}": "LATITUDE 3450",
+    "{FullPath}": "Lists/test/28_.000",
+    "{HasAttachments}": false,
+    "{Identifier}": "Lists%252ftest%252f28_.000",
+    "{IsFolder}": false,
+    "{Link}": "https://reservoirlink.sharepoint.com/sites/MSSites/_layouts/15/listform.aspx?PageType=4&ListId=17e82ded%2Dcc34%2D4030%2Dab6a%2D639fe7680b9b&ID=28&ContentTypeID=0x0100711E667B61FA0141B0BDBCE876AB919B006559A9E137497A479859325B95496DE1",
+    "{Name}": "LATITUDE 3450",
+    "{Path}": "Lists/test/",
+    "{VersionNumber}": "2.0"
+  },
+  {
+    "@odata.etag": "\"2\"",
+    "Author": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+      "Claims": "i:0#.f|membership|muhammad.syafiq@reservoirlink.com",
+      "Department": "IT",
+      "DisplayName": "Muhammad Syafiq MOHAMAD ZAKY",
+      "Email": "muhammad.syafiq@reservoirlink.com",
+      "JobTitle": null,
+      "Picture": "https://reservoirlink.sharepoint.com/sites/MSSites/_layouts/15/UserPhoto.aspx?Size=L&AccountName=muhammad.syafiq@reservoirlink.com"
+    },
+    "Author#Claims": "i:0#.f|membership|muhammad.syafiq@reservoirlink.com",
+    "Brand": "ACER",
+    "Company": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+      "Id": 4,
+      "Value": "RLS"
+    },
+    "Company#Id": 4,
+    "Company_x0020_Copy": "RLS",
+    "Created": "2026-10-08T08:13:43Z",
+    "Editor": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+      "Claims": "i:0#.f|membership|siti.hajar@reservoirlink.com",
+      "Department": "IT",
+      "DisplayName": "Siti Hajar UMAR",
+      "Email": "siti.hajar@reservoirlink.com",
+      "JobTitle": "INTERNSHIP",
+      "Picture": "https://reservoirlink.sharepoint.com/sites/MSSites/_layouts/15/UserPhoto.aspx?Size=L&AccountName=siti.hajar@reservoirlink.com"
+    },
+    "Editor#Claims": "i:0#.f|membership|siti.hajar@reservoirlink.com",
+    "ID": 29,
+    "ItemInternalId": "29",
+    "Model": "EIZLAN",
+    "Modified": "2026-10-19T06:41:58Z",
+    "Status": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+      "Id": 0,
+      "Value": "In Use"
+    },
+    "Status#Id": 0,
+    "Title": "Predator G3-572",
+    "Workbase": "KL",
+    "{ContentType}": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedContentType",
+      "Id": "0x0100711E667B61FA0141B0BDBCE876AB919B006559A9E137497A479859325B95496DE1",
+      "Name": "Item"
+    },
+    "{ContentType}#Id": "0x0100711E667B61FA0141B0BDBCE876AB919B006559A9E137497A479859325B95496DE1",
+    "{FilenameWithExtension}": "Predator G3-572",
+    "{FullPath}": "Lists/test/29_.000",
+    "{HasAttachments}": false,
+    "{Identifier}": "Lists%252ftest%252f29_.000",
+    "{IsFolder}": false,
+    "{Link}": "https://reservoirlink.sharepoint.com/sites/MSSites/_layouts/15/listform.aspx?PageType=4&ListId=17e82ded%2Dcc34%2D4030%2Dab6a%2D639fe7680b9b&ID=29&ContentTypeID=0x0100711E667B61FA0141B0BDBCE876AB919B006559A9E137497A479859325B95496DE1",
+    "{Name}": "Predator G3-572",
+    "{Path}": "Lists/test/",
+    "{VersionNumber}": "2.0"
+  },
+  {
+    "@odata.etag": "\"1\"",
+    "Author": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+      "Claims": "i:0#.f|membership|siti.hajar@reservoirlink.com",
+      "Department": "IT",
+      "DisplayName": "Siti Hajar UMAR",
+      "Email": "siti.hajar@reservoirlink.com",
+      "JobTitle": "INTERNSHIP",
+      "Picture": "https://reservoirlink.sharepoint.com/sites/MSSites/_layouts/15/UserPhoto.aspx?Size=L&AccountName=siti.hajar@reservoirlink.com"
+    },
+    "Author#Claims": "i:0#.f|membership|siti.hajar@reservoirlink.com",
+    "Brand": "DELL",
+    "Company": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+      "Id": 1,
+      "Value": "RLSB"
+    },
+    "Company#Id": 1,
+    "Company_x0020_Copy": "RLSB",
+    "Created": "2026-11-02T07:26:25Z",
+    "Editor": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+      "Claims": "i:0#.f|membership|siti.hajar@reservoirlink.com",
+      "Department": "IT",
+      "DisplayName": "Siti Hajar UMAR",
+      "Email": "siti.hajar@reservoirlink.com",
+      "JobTitle": "INTERNSHIP",
+      "Picture": "https://reservoirlink.sharepoint.com/sites/MSSites/_layouts/15/UserPhoto.aspx?Size=L&AccountName=siti.hajar@reservoirlink.com"
+    },
+    "Editor#Claims": "i:0#.f|membership|siti.hajar@reservoirlink.com",
+    "ID": 30,
+    "ItemInternalId": "30",
+    "Model": "HAJAR",
+    "Modified": "2026-11-02T07:26:25Z",
+    "Status": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+      "Id": 0,
+      "Value": "In Use"
+    },
+    "Status#Id": 0,
+    "Title": "JDGJ78",
+    "Workbase": "KL",
+    "{ContentType}": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedContentType",
+      "Id": "0x0100711E667B61FA0141B0BDBCE876AB919B006559A9E137497A479859325B95496DE1",
+      "Name": "Item"
+    },
+    "{ContentType}#Id": "0x0100711E667B61FA0141B0BDBCE876AB919B006559A9E137497A479859325B95496DE1",
+    "{FilenameWithExtension}": "JDGJ78",
+    "{FullPath}": "Lists/test/30_.000",
+    "{HasAttachments}": false,
+    "{Identifier}": "Lists%252ftest%252f30_.000",
+    "{IsFolder}": false,
+    "{Link}": "https://reservoirlink.sharepoint.com/sites/MSSites/_layouts/15/listform.aspx?PageType=4&ListId=17e82ded%2Dcc34%2D4030%2Dab6a%2D639fe7680b9b&ID=30&ContentTypeID=0x0100711E667B61FA0141B0BDBCE876AB919B006559A9E137497A479859325B95496DE1",
+    "{Name}": "JDGJ78",
+    "{Path}": "Lists/test/",
+    "{VersionNumber}": "1.0"
+  },
+  {
+    "@odata.etag": "\"1\"",
+    "Author": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+      "Claims": "i:0#.f|membership|siti.hajar@reservoirlink.com",
+      "Department": "IT",
+      "DisplayName": "Siti Hajar UMAR",
+      "Email": "siti.hajar@reservoirlink.com",
+      "JobTitle": "INTERNSHIP",
+      "Picture": "https://reservoirlink.sharepoint.com/sites/MSSites/_layouts/15/UserPhoto.aspx?Size=L&AccountName=siti.hajar@reservoirlink.com"
+    },
+    "Author#Claims": "i:0#.f|membership|siti.hajar@reservoirlink.com",
+    "Brand": "dell",
+    "Company": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+      "Id": 1,
+      "Value": "RLSB"
+    },
+    "Company#Id": 1,
+    "Company_x0020_Copy": "RLSB",
+    "Created": "2026-11-02T09:02:16Z",
+    "Editor": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+      "Claims": "i:0#.f|membership|siti.hajar@reservoirlink.com",
+      "Department": "IT",
+      "DisplayName": "Siti Hajar UMAR",
+      "Email": "siti.hajar@reservoirlink.com",
+      "JobTitle": "INTERNSHIP",
+      "Picture": "https://reservoirlink.sharepoint.com/sites/MSSites/_layouts/15/UserPhoto.aspx?Size=L&AccountName=siti.hajar@reservoirlink.com"
+    },
+    "Editor#Claims": "i:0#.f|membership|siti.hajar@reservoirlink.com",
+    "ID": 31,
+    "ItemInternalId": "31",
+    "Model": "hajar",
+    "Modified": "2026-11-02T09:02:16Z",
+    "Status": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+      "Id": 2,
+      "Value": "In Stock"
+    },
+    "Status#Id": 2,
+    "Title": "jdhsj",
+    "Workbase": "kl",
+    "{ContentType}": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedContentType",
+      "Id": "0x0100711E667B61FA0141B0BDBCE876AB919B006559A9E137497A479859325B95496DE1",
+      "Name": "Item"
+    },
+    "{ContentType}#Id": "0x0100711E667B61FA0141B0BDBCE876AB919B006559A9E137497A479859325B95496DE1",
+    "{FilenameWithExtension}": "jdhsj",
+    "{FullPath}": "Lists/test/31_.000",
+    "{HasAttachments}": false,
+    "{Identifier}": "Lists%252ftest%252f31_.000",
+    "{IsFolder}": false,
+    "{Link}": "https://reservoirlink.sharepoint.com/sites/MSSites/_layouts/15/listform.aspx?PageType=4&ListId=17e82ded%2Dcc34%2D4030%2Dab6a%2D639fe7680b9b&ID=31&ContentTypeID=0x0100711E667B61FA0141B0BDBCE876AB919B006559A9E137497A479859325B95496DE1",
+    "{Name}": "jdhsj",
+    "{Path}": "Lists/test/",
+    "{VersionNumber}": "1.0"
+  },
+  {
+    "@odata.etag": "\"1\"",
+    "Author": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+      "Claims": "i:0#.f|membership|siti.hajar@reservoirlink.com",
+      "Department": "IT",
+      "DisplayName": "Siti Hajar UMAR",
+      "Email": "siti.hajar@reservoirlink.com",
+      "JobTitle": "INTERNSHIP",
+      "Picture": "https://reservoirlink.sharepoint.com/sites/MSSites/_layouts/15/UserPhoto.aspx?Size=L&AccountName=siti.hajar@reservoirlink.com"
+    },
+    "Author#Claims": "i:0#.f|membership|siti.hajar@reservoirlink.com",
+    "Brand": "DELL",
+    "Company": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+      "Id": 1,
+      "Value": "RLSB"
+    },
+    "Company#Id": 1,
+    "Company_x0020_Copy": "RLSB",
+    "Created": "2026-11-03T01:35:07Z",
+    "Editor": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+      "Claims": "i:0#.f|membership|siti.hajar@reservoirlink.com",
+      "Department": "IT",
+      "DisplayName": "Siti Hajar UMAR",
+      "Email": "siti.hajar@reservoirlink.com",
+      "JobTitle": "INTERNSHIP",
+      "Picture": "https://reservoirlink.sharepoint.com/sites/MSSites/_layouts/15/UserPhoto.aspx?Size=L&AccountName=siti.hajar@reservoirlink.com"
+    },
+    "Editor#Claims": "i:0#.f|membership|siti.hajar@reservoirlink.com",
+    "ID": 32,
+    "ItemInternalId": "32",
+    "Model": "HAJAR",
+    "Modified": "2026-11-03T01:35:07Z",
+    "Status": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+      "Id": 2,
+      "Value": "In Stock"
+    },
+    "Status#Id": 2,
+    "Title": "MHA",
+    "Workbase": "LABUAN",
+    "{ContentType}": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedContentType",
+      "Id": "0x0100711E667B61FA0141B0BDBCE876AB919B006559A9E137497A479859325B95496DE1",
+      "Name": "Item"
+    },
+    "{ContentType}#Id": "0x0100711E667B61FA0141B0BDBCE876AB919B006559A9E137497A479859325B95496DE1",
+    "{FilenameWithExtension}": "MHA",
+    "{FullPath}": "Lists/test/32_.000",
+    "{HasAttachments}": false,
+    "{Identifier}": "Lists%252ftest%252f32_.000",
+    "{IsFolder}": false,
+    "{Link}": "https://reservoirlink.sharepoint.com/sites/MSSites/_layouts/15/listform.aspx?PageType=4&ListId=17e82ded%2Dcc34%2D4030%2Dab6a%2D639fe7680b9b&ID=32&ContentTypeID=0x0100711E667B61FA0141B0BDBCE876AB919B006559A9E137497A479859325B95496DE1",
+    "{Name}": "MHA",
+    "{Path}": "Lists/test/",
+    "{VersionNumber}": "1.0"
+  }
+]
