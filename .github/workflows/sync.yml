@@ -2,7 +2,7 @@ name: Sync SharePoint Data
 
 on:
   repository_dispatch:
-    types: [update_inventory]
+    types: [updateinventory]
 
 jobs:
   sync:
