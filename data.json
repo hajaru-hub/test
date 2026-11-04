@@ -1119,5 +1119,64 @@
     "{Name}": "MHA",
     "{Path}": "Lists/test/",
     "{VersionNumber}": "1.0"
+  },
+  {
+    "@odata.etag": "\"1\"",
+    "Author": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+      "Claims": "i:0#.f|membership|siti.hajar@reservoirlink.com",
+      "Department": "IT",
+      "DisplayName": "Siti Hajar UMAR",
+      "Email": "siti.hajar@reservoirlink.com",
+      "JobTitle": "INTERNSHIP",
+      "Picture": "https://reservoirlink.sharepoint.com/sites/MSSites/_layouts/15/UserPhoto.aspx?Size=L&AccountName=siti.hajar@reservoirlink.com"
+    },
+    "Author#Claims": "i:0#.f|membership|siti.hajar@reservoirlink.com",
+    "Brand": "DELL",
+    "Company": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+      "Id": 3,
+      "Value": "RLR"
+    },
+    "Company#Id": 3,
+    "Company_x0020_Copy": "RLR",
+    "Created": "2026-11-04T03:46:01Z",
+    "Editor": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedUser",
+      "Claims": "i:0#.f|membership|siti.hajar@reservoirlink.com",
+      "Department": "IT",
+      "DisplayName": "Siti Hajar UMAR",
+      "Email": "siti.hajar@reservoirlink.com",
+      "JobTitle": "INTERNSHIP",
+      "Picture": "https://reservoirlink.sharepoint.com/sites/MSSites/_layouts/15/UserPhoto.aspx?Size=L&AccountName=siti.hajar@reservoirlink.com"
+    },
+    "Editor#Claims": "i:0#.f|membership|siti.hajar@reservoirlink.com",
+    "ID": 35,
+    "ItemInternalId": "35",
+    "Model": "ERRR",
+    "Modified": "2026-11-04T03:46:01Z",
+    "Status": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+      "Id": 1,
+      "Value": "Repair"
+    },
+    "Status#Id": 1,
+    "Title": "JDAK8",
+    "Workbase": "KL",
+    "{ContentType}": {
+      "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedContentType",
+      "Id": "0x0100711E667B61FA0141B0BDBCE876AB919B006559A9E137497A479859325B95496DE1",
+      "Name": "Item"
+    },
+    "{ContentType}#Id": "0x0100711E667B61FA0141B0BDBCE876AB919B006559A9E137497A479859325B95496DE1",
+    "{FilenameWithExtension}": "JDAK8",
+    "{FullPath}": "Lists/test/35_.000",
+    "{HasAttachments}": false,
+    "{Identifier}": "Lists%252ftest%252f35_.000",
+    "{IsFolder}": false,
+    "{Link}": "https://reservoirlink.sharepoint.com/sites/MSSites/_layouts/15/listform.aspx?PageType=4&ListId=17e82ded%2Dcc34%2D4030%2Dab6a%2D639fe7680b9b&ID=35&ContentTypeID=0x0100711E667B61FA0141B0BDBCE876AB919B006559A9E137497A479859325B95496DE1",
+    "{Name}": "JDAK8",
+    "{Path}": "Lists/test/",
+    "{VersionNumber}": "1.0"
   }
 ]
